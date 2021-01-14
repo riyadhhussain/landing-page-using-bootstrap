@@ -4,6 +4,9 @@
 .small-intro img, .shoping-cart{
     width: 30px;
 }
- h3{
+ h3,{
      color: rgb(231, 199, 15);
+ }
+ #review{
+     color: red;
  }
